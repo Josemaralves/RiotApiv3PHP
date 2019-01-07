@@ -1,8 +1,8 @@
 <?php
 	//Change Bellow >>>
-	$apicustom   = 	'RGAPI-968b2ee2-46f1-4df1-8b35-746ef7670c7f'; //Put your Api Key
+	$apicustom   = 	''; //Put your Api Key
 	$region      =  'br1';	// Select your region
-    $nick 		 = 	'maziiinho'; // Select your Nick
+    $nick 		 = 	''; // Select your Nick
 	$patch       =  '8.24.1'; // Change for Current patch
 	
 	//Getting User Information from Riot Api
